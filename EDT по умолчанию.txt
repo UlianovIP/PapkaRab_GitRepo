@@ -1,0 +1,4 @@
+Путь к проектам:
+C:\Users\i.ulyanov\AppData\Local\1C\1cedtstart\projects
+Путь к средам разработки:
+C:\Users\i.ulyanov\AppData\Local\1C\1cedtstart\installations
